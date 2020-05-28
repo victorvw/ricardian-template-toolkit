@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/EOSIO/ricardian-template-toolkit) 
+
 # EOSIO.CDT Ricardian Template Toolkit ![EOSIO Alpha](https://img.shields.io/badge/EOSIO-Alpha-blue.svg)
 
 This library is a new tool in the suite of tools from [EOSIO.CDT (Contract Development Toolkit)](https://github.com/EOSIO/eosio.cdt/tree/develop), and should allow for a more robust and rich environment for writing **Ricardian** contracts for your **EOSIO** smart contracts.
